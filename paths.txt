@@ -1,0 +1,4 @@
+/home/username/Documents
+/home/username/snap/firefox/common/.mozilla/firefox
+/home/username/Jupyter notebooks
+/home/username/.local/share/keyrings
